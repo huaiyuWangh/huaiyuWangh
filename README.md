@@ -64,9 +64,8 @@
 ### 🔧 IDEs & Editors
 <p align="left">
   <img src="https://img.shields.io/badge/GoLand-087CFA?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Crush-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Crush"/>
 </p>
 
 ---
