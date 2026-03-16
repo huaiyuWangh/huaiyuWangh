@@ -37,10 +37,9 @@
 
 ---
 - 🔭 **Currently working on:** Backend Development & Cloud Native Projects
-- 🌱 **Currently learning:** Kubernetes, Microservices
+- 🌱 **Currently learning:** AGENT, LLM
 - 👯 **Looking to collaborate on:** Open Source Golang Projects
 - 💬 **Ask me about:** Golang, Backend Development
-- ⚡ **Fun fact:** I debug code faster with coffee ☕
 
 ---
 
